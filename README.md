@@ -4,7 +4,7 @@
 
 ### I am HTML/CSS coder
 - 😀 I'm enjoy building things that live on the internet.
-- 👨‍💻 I'm currently working on a [Ewent](https://dimamelnichuk.github.io/Ewent/ "Website")
+- 👨‍💻 I'm currently working on a building website [Ewent](https://dimamelnichuk.github.io/Ewent/ "Website")
 - 🧠 I’m learning JavaScript and WordPress.
 - 💬 I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
 - ⚡ Fun fact: I love to play guitar and traveling.
