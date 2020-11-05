@@ -1,12 +1,11 @@
-### Hi , my name is [Dmitriy Melnichuk](https://dimamelnichuk.github.io/ "Portfolio")
+### Hi ✌️, my name is [Dmitriy Melnichuk](https://dimamelnichuk.github.io/ "Portfolio")
 
 ## I am HTML/CSS coder
-- I'm enjoy building things that live on the internet.
-- I'm currently working on a [Ewent](https://dimamelnichuk.github.io/Ewent/ "Website")
-- [<img height="32" width="32" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wordpress.png" />]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/javascript.png" />] I’m learning JavaScript and WordPress.
-- I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
-- Fun fact: I love to play guitar and traveling.
+- 😀 I'm enjoy building things that live on the internet.
+- 💻 I'm currently working on a [Ewent](https://dimamelnichuk.github.io/Ewent/ "Website")
+- 🧠 I’m learning JavaScript and WordPress.
+- 💬 I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
+- 🎸🗺️Fun fact: I love to play guitar and traveling.
 
 <br />
 <br />
