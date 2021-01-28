@@ -1,11 +1,11 @@
 ## Hi ✌️, my name is [Dmitriy Melnichuk](https://dimamelnichuk.github.io/ "Portfolio")
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="230" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
 ### I am HTML/CSS coder
 - 😀 I'm enjoy building things that live on the internet.
-- 👨‍💻 I'm currently working on a building website [Ewent](https://dimamelnichuk.github.io/Ewent/ "Website")
-- 🧠 I’m learning JavaScript and WordPress.
+- 👨‍💻 I'm currently working on a building website [Express](https://dimamelnichuk.github.io/express/ "Website")
+- 🧠 I’m learning WordPress.
 - 💬 I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
 - ⚡ Fun fact: I love to play guitar and traveling.
 
@@ -29,6 +29,7 @@
 
 ### Latest Projects:
 
+- [Ewent - Event & Conference](https://dimamelnichuk.github.io/Ewent/ "Website")
 - [Hadona- Website for e-commerce](https://dimamelnichuk.github.io/hadona/ "Website")
 - [Kappe is focused on any kind of event](https://dimamelnichuk.github.io/portfolio-design/ "Website")
 - [Tolong - Help Desk / Knowledge Base](https://dimamelnichuk.github.io/tolong/ "Website")
@@ -41,7 +42,7 @@
 ### Connect with me:
 
 <a href="dmitrymelnichuk95@gmail.com">
-  <img align="left" alt="Email" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />
+  <img align="left" alt="Email" width="22px" target="_blank" src="icons/at.svg" />
 </a>
 
 <a href="https://t.me/eng_WDYM">
