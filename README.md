@@ -41,14 +41,14 @@
 
 ### Connect with me:
 
-<a href="dmitrymelnichuk95@gmail.com">
-  <img align="left" alt="Email" width="22px" target="_blank" src="icons/at.svg" />
+<a href="mailto:dmitrymelnichuk95@gmail.com">
+  <img align="left" alt="Email" width="22px" target="_blank" src="icons/mail.svg" />
 </a>
 
 <a href="https://t.me/eng_WDYM">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="icons/telegram.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/dmitry-melnichuk-8094bb1b7/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.svg" />
 </a>
