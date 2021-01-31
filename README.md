@@ -1,6 +1,6 @@
 ## Hi ✌️, my name is [Dmitriy Melnichuk](https://dimamelnichuk.github.io/ "Portfolio")
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="220" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
 ### I am HTML/CSS coder
 - 😀 I'm enjoy building things that live on the internet.
