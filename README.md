@@ -19,7 +19,6 @@
 <img align="left" alt="Sass" width="45px" src="icons/sass.svg" />
 <img align="left" alt="JS" width="45px" src="icons/js.svg" />
 <img align="left" alt="JQuery" width="45px" src="icons/jquery.svg" />
-<img align="left" alt="Sass" width="45px" src="icons/html.svg" />
 <img align="left" alt="Github" width="45px" src="icons/github.svg" />
 <img align="left" alt="Gulp" width="45px" src="icons/gulp.svg" />
 <img align="left" alt="VS code" width="45px" src="icons/vscode.svg" />
