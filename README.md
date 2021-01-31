@@ -25,6 +25,7 @@
 <img align="left" alt="Photoshop" width="45px" src="icons/photoshop.svg" />
 
 <br />
+<br />
 
 ---
 
