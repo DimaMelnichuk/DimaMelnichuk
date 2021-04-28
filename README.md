@@ -1,13 +1,13 @@
-## Hi ✌️, my name is [Dmitriy Melnichuk](https://dimamelnichuk.github.io/ "Portfolio")
+## Hi ✌️, my name is [Dmitry Melnichuk](https://dimamelnichuk.github.io/ "Portfolio")
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="220" />
 
 ### I am HTML/CSS coder
 - 😀 I'm enjoy building things that live on the internet.
 - 👨‍💻 I'm currently working on a building website [Express](https://dimamelnichuk.github.io/express/ "Website")
 - 🧠 I’m learning WordPress.
 - 💬 I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
-- ⚡ Fun fact: I love to play guitar and traveling.
+- ⚡ Fun fact: I love to play guitar, traveling and just enjoy life.
 
 ---
 
@@ -21,6 +21,7 @@
 <img align="left" alt="JQuery" width="45px" src="icons/jquery.svg" />
 <img align="left" alt="Github" width="45px" src="icons/github.svg" />
 <img align="left" alt="Gulp" width="45px" src="icons/gulp.svg" />
+<img align="left" alt="WordPress" width="45px" src="icons/wordpress.svg" />
 <img align="left" alt="VS code" width="45px" src="icons/vscode.svg" />
 <img align="left" alt="Photoshop" width="45px" src="icons/photoshop.svg" />
 
@@ -34,8 +35,8 @@
 - [Ewent - Event & Conference](https://dimamelnichuk.github.io/Ewent/ "Website")
 - [Hadona- Website for e-commerce](https://dimamelnichuk.github.io/hadona/ "Website")
 - [Kappe is focused on any kind of event](https://dimamelnichuk.github.io/portfolio-design/ "Website")
-- [Tolong - Help Desk / Knowledge Base](https://dimamelnichuk.github.io/tolong/ "Website")
 - [Poopet - Pet Grooming & Care Center](https://dimamelnichuk.github.io/poopet/ "Website")
+- [Tolong - Help Desk / Knowledge Base](https://dimamelnichuk.github.io/tolong/ "Website")
 
 ➡️ [more projects](https://github.com/DimaMelnichuk?tab=repositories)
 
@@ -53,4 +54,8 @@
 
 <a href="https://www.linkedin.com/in/dmitry-melnichuk-8094bb1b7/">
   <img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.svg" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100047198384049">
+  <img align="left" alt="Facebook" width="22px" src="icons/facebook.svg" />
 </a>
